@@ -48,7 +48,7 @@
         "BG_BASE_PRIMARY": [ "#090909AB" ],
         "BG_BASE_SECONDARY": [ "#090909AB" ],
         "BG_BASE_TERTIARY": [ "#020202AB" ],
-        "BG_MOD_FAINT": [ "#444664" ],
+        "BG_MOD_FAINT": [ "#020202" ],
         "BG_MOD_STRONG": [ "#363749" ],
         "BG_MOD_SUBTLE": [ "#697eab29" ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#272830" ],
