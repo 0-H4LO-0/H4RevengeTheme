@@ -22,7 +22,7 @@
         "BACKGROUND_MOBILE_SECONDARY": [ "#23232b" ],
         "BACKGROUND_NESTED_FLOATING": [ "#25242d" ],
         "BACKGROUND_PRIMARY": [ "#090909AB" ],
-        "BACKGROUND_SECONDARY": [ "#1a1a1a" ],
+        "BACKGROUND_SECONDARY": [ "#0c0c0c" ],
         "BACKGROUND_SECONDARY_ALT": [ "#090909" ],
         "BORDER_FAINT": [ "#383838" ], 
         "CARD_PRIMARY_BG": [ "#090909AB" ],
